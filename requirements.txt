@@ -1,0 +1,4 @@
+Flask==1.1.2
+googletrans==2.4.0
+line_bot_sdk==1.16.0
+psyco==1.6

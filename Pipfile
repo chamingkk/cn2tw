@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 gunicorn = "==19.9.0"
 line-bot-sdk = "==1.16.0"
-Flask = "==1.1.1"
+Flask = "==2.3.2"
 googletrans = "==2.4.0"
 
 [requires]
